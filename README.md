@@ -3,3 +3,8 @@ Image Segmentation with Watershed Algorithm Any grayscale image can be viewed as
 
 
 ![](about.jpg)
+
+|Segmentation 1|Segmentation 2|Segmentation 3|Segmentation 4|Segmentation 5|Segmentation 6|Segmentation 7|Segmentation 8|Segmentation 9 |Segmentation 10|
+|------------|-------------|------------|-------------|------------|-------------|------------|-------------|------------|------------|
+|![](images/1.jpg)|![](images/2.jpg)|![](images/3.jpg)|![](images/4.jpg)|![](images/5.jpg)|![](images/6.jpg)|![](images/7.jpg)|![](images/8.jpg)|![](images/9.jpg)|![](images/10.jpg)|
+|![](images/11.jpg)|![](images/12.jpg)|![](images/13.jpg)|![](images/14.jpg)|![](images/15.jpg)|![](images/16.jpg)|![](images/17.jpg)|![](images/18.jpg)|![](images/19.jpg)|![](images/20.jpg)|
